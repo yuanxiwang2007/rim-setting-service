@@ -1,0 +1,3 @@
+#Dubbo Registry Cache
+#Thu Sep 06 18:47:34 CST 2018
+com.ris.rimsetting.rpc.HouseInfoRpc=empty\://192.168.184.1\:20880/com.ris.rimsetting.rpc.HouseInfoRpc?anyhost\=true&application\=RimSettingService&category\=configurators&check\=false&dubbo\=2.5.5&generic\=false&interface\=com.ris.rimsetting.rpc.HouseInfoRpc&methods\=getHouseInfoVoById&owner\=yxw&pid\=4956&side\=provider&timestamp\=1536230854293
